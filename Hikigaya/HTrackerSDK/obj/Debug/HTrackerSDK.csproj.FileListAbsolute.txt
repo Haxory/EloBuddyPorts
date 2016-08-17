@@ -1,0 +1,15 @@
+D:\EBExperiments\HTrackerSDK\HTrackerSDK\bin\Release\HTrackerSDK.exe.config
+D:\EBExperiments\HTrackerSDK\HTrackerSDK\bin\Release\HTrackerSDK.exe
+D:\EBExperiments\HTrackerSDK\HTrackerSDK\bin\Release\HTrackerSDK.pdb
+D:\EBExperiments\HTrackerSDK\HTrackerSDK\bin\Release\EloBuddy.dll
+D:\EBExperiments\HTrackerSDK\HTrackerSDK\bin\Release\EloBuddy.SDK.dll
+D:\EBExperiments\HTrackerSDK\HTrackerSDK\bin\Release\LeagueSharp.Data.dll
+D:\EBExperiments\HTrackerSDK\HTrackerSDK\bin\Release\LeagueSharp.SDKEx.dll
+D:\EBExperiments\HTrackerSDK\HTrackerSDK\bin\Release\SharpDX.Direct3D9.dll
+D:\EBExperiments\HTrackerSDK\HTrackerSDK\bin\Release\SharpDX.dll
+D:\EBExperiments\HTrackerSDK\HTrackerSDK\bin\Release\Newtonsoft.Json.dll
+D:\EBExperiments\HTrackerSDK\HTrackerSDK\bin\Release\EloBuddy.Sandbox.dll
+D:\EBExperiments\HTrackerSDK\HTrackerSDK\bin\Release\LeagueSharp.Data.pdb
+D:\EBExperiments\HTrackerSDK\HTrackerSDK\obj\Debug\HTrackerSDK.csprojResolveAssemblyReference.cache
+D:\EBExperiments\HTrackerSDK\HTrackerSDK\obj\Debug\HTrackerSDK.exe
+D:\EBExperiments\HTrackerSDK\HTrackerSDK\obj\Debug\HTrackerSDK.pdb

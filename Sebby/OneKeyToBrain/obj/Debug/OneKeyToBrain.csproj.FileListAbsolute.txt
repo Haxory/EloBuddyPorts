@@ -1,0 +1,16 @@
+D:\EBExperiments\OneKeyToBrain\bin\Release\OneKeyToBrain.exe.config
+D:\EBExperiments\OneKeyToBrain\bin\Release\OneKeyToBrain.exe
+D:\EBExperiments\OneKeyToBrain\bin\Release\OneKeyToBrain.pdb
+D:\EBExperiments\OneKeyToBrain\bin\Release\EloBuddy.dll
+D:\EBExperiments\OneKeyToBrain\bin\Release\LeagueSharp.Common.dll
+D:\EBExperiments\OneKeyToBrain\bin\Release\SharpDX.dll
+D:\EBExperiments\OneKeyToBrain\bin\Release\SharpDX.Direct3D9.dll
+D:\EBExperiments\OneKeyToBrain\bin\Release\LeagueSharp.Data.dll
+D:\EBExperiments\OneKeyToBrain\bin\Release\EloBuddy.SDK.dll
+D:\EBExperiments\OneKeyToBrain\bin\Release\EloBuddy.Sandbox.dll
+D:\EBExperiments\OneKeyToBrain\bin\Release\Newtonsoft.Json.dll
+D:\EBExperiments\OneKeyToBrain\bin\Release\LeagueSharp.Common.pdb
+D:\EBExperiments\OneKeyToBrain\bin\Release\LeagueSharp.Data.pdb
+D:\EBExperiments\OneKeyToBrain\obj\Debug\OneKeyToBrain.csprojResolveAssemblyReference.cache
+D:\EBExperiments\OneKeyToBrain\obj\Debug\OneKeyToBrain.exe
+D:\EBExperiments\OneKeyToBrain\obj\Debug\OneKeyToBrain.pdb
