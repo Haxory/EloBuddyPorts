@@ -194,7 +194,7 @@ namespace NabbTracker
         {
             //if (SpecialChampions.Contains(target.ChampionName))
             //{
-                return -30;
+                return -32;
             //}
 
             //return target.IsMe ? -4 : 4;
