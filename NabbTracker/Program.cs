@@ -36,8 +36,6 @@ namespace NabbTracker
                     /// </summary>
                     Chat.Print(
                         "[SDK]<b><font color='#228B22'>Nabb</font></b>Tracker: <font color='#228B22'>Ultima</font> - Loaded!");
-                    Chat.Print(
-                        "<b><font color='#FF4000'>[WARNING]</font></b> Expbar is temporarily disabled.");
                 };
         }
 

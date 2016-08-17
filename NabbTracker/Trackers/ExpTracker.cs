@@ -19,7 +19,6 @@ namespace NabbTracker
         /// </summary>
         public static void Initialize()
         {
-            
             Drawing.OnDraw += delegate
                 {
                     foreach (var unit in
@@ -31,17 +30,15 @@ namespace NabbTracker
                                 || e.IsAlly && !e.IsMe && Vars.Menu["exptracker"]["allies"].GetValue<MenuBool>().Value))
                         )
                     {
-                        var actualExp = unit.Experience;
+                        var actualExp = unit.Experience.XP;
                         var neededExp = 180 + 100 * unit.Level;
                         Vars.ExpX = (int)unit.HPBarPosition.X + Vars.ExpXAdjustment(unit);
                         Vars.ExpY = (int)unit.HPBarPosition.Y + Vars.ExpYAdjustment(unit);
                         if (unit.Level > 1)
-                            return;
-                            /*{
-                            actualExp -= (280 + 80 + 100 * unit.Level) + 2 * (unit.Level - 1);
+                        {
+                            actualExp -= (280 + 80 + 100 * unit.Level) / 2 * (unit.Level - 1);
                         }
-                         */
-                        var expPercent = (int)(1 / 1 * 100);
+                        var expPercent = (int)(actualExp / neededExp * 100);
                         if (unit.Level < 18 || GameObjects.Player.HasBuff("AwesomeBuff") && unit.Level < 30)
                         {
                             Drawing.DrawLine(

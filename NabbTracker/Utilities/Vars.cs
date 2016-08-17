@@ -4,8 +4,6 @@ namespace NabbTracker
 {
     using System.Collections.Generic;
     using System.Drawing;
-
-    using LeagueSharp;
     using LeagueSharp.SDK.UI;
 
     using Font = SharpDX.Direct3D9.Font;
